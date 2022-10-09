@@ -1,0 +1,175 @@
+#box{
+    padding: 40px;
+    text-align: center;
+    height: 70px;
+    width: 260px;
+    border: 10px solid red;
+    border-radius: 20px;
+    color: brown;
+    font-style: italic;
+    font-size: xx-large;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-left: 500px;
+box-shadow: 10px 10px purple;
+text-shadow: 2px 2px purple;
+
+
+}
+img{
+    height: 55;
+    width: 100%;
+}
+.box1{
+    width: 210px;
+    height: 200px;
+    padding: 2px;
+    border: 10px solid red;
+    font-size: 30px;
+    text-align: center;
+    color: brown;
+    font-style: italic;
+    box-shadow: 10px 10px purple;
+    margin: 20px;
+    border-radius: 15px;
+    text-shadow: 1px 2px purple;
+}
+.box2{
+    width: 165px;
+    height: 135px;
+    padding: 2px;
+    border: 10px solid red;
+    box-shadow: 10px 10px purple;
+    margin: 20px;
+    border-radius: 15px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    margin-left: 775px;
+}
+.box3{
+    padding: 40px;
+    text-align: center;
+    height: 170px;
+    width: 140px;
+    border: 10px solid red;
+    border-radius: 20px;
+    color: brown;
+    font-style: italic;
+    font-size: 23px;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-left: 500px;
+box-shadow: 10px 10px purple;
+margin: 20px;
+text-shadow: 1px 2px purple;
+
+}
+.box4{
+    padding: 40px;
+    text-align: center;
+    height: 180px;
+    width: 140px;
+    border: 10px solid red;
+    border-radius: 20px;
+    color: brown;
+    font-style: italic;
+    font: size 30px;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-left: 500px;
+box-shadow: 10px 10px purple;
+margin: 20px;
+padding-bottom:50px;
+margin-left: 750px;
+text-shadow: 1px 1px purple;
+}
+.main{
+
+    display: flex;
+flex-wrap: wrap;
+border: 10px solid yellow;
+}
+#table{
+    text-align: center;
+    background-color: green;
+    padding: 20px;
+    width: 50%;
+    margin-left: 250px;
+}
+
+.table2{
+    width: 200px;
+    height: 200px;
+    border: 10px solid red;
+    
+    
+}
+.table3{
+    width: 200px;
+    height: 200px;
+    border: 10px solid red;
+}
+
+
+#hello{
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+}
+
+#container4{
+    display: flex;
+}
+.two-box{
+    border: 5px solid darkgreen;
+    background-color: yellowgreen;
+    width: 60%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#long-box {
+    width: 99%;
+    border: 5px solid darkgreen;
+    border-right: 1px;
+    height: 290px;
+    background-color: yellowgreen;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 0px;
+
+}
+
+#fix-box {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    border: 10px solid rgb(97, 97, 4);
+    background-color: rgb(187, 187, 57);
+    color: red;
+    font-style: italic;
+    padding-right: 20px;
+    padding-left: 30px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom:100px;
+    left: 400px;
+}
+#main2{
+    border: 10px solid purple;
+    width: 50%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    background-color:green;
+    padding: 0px;
+padding-right: 0px;
+    
+}
